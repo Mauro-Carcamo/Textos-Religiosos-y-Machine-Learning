@@ -1,4 +1,5 @@
 # Proyecto: Análisis de Textos Sagrados de las Religiones más Profesas en el Mundo
+[Revisa Reusltados](https://github.com/Mauro-Carcamo/Textos-Religiosos-y-Machine-Learning/blob/main/analisis_frecuencias_textos.ipynb)
 
 ## Descripción
 Este proyecto se enfoca en el análisis comparativo de textos sagrados de las principales religiones del mundo: el Antiguo Testamento, el Nuevo Testamento, el Corán, la Torá y los Upanishads. Utilizando técnicas avanzadas de procesamiento de lenguaje natural (NLP) y machine learning, el objetivo es extraer patrones significativos de estos textos, abordando tres principales áreas de estudio: análisis de frecuencias, correlación de términos y modelado de temas mediante Latent Dirichlet Allocation (LDA).
